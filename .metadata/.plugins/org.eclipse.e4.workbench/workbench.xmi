@@ -2,7 +2,7 @@
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_Wl7NcFn3Ee2G-a1WGsgzzg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Wl7NcVn3Ee2G-a1WGsgzzg" bindingContexts="_Wl7Neln3Ee2G-a1WGsgzzg">
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AddingLargeNumbers.java&quot; tooltip=&quot;C:\Users\lalit\OneDrive\Desktop\Java\AddingLargeNumbers.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/lalit/OneDrive/Desktop/Java/AddingLargeNumbers.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;AddNumbers.class&quot; tooltip=&quot;C:\Users\lalit\OneDrive\Desktop\Java\AddNumbers.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/lalit/OneDrive/Desktop/Java/AddNumbers.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_Wl7NcVn3Ee2G-a1WGsgzzg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_XHebUFn3Ee2G-a1WGsgzzg" label="%trimmedwindow.label.eclipseSDK" x="160" y="160" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_Wl7NcVn3Ee2G-a1WGsgzzg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_XHebUFn3Ee2G-a1WGsgzzg" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -335,7 +335,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XKqSMFn3Ee2G-a1WGsgzzg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_XK0DMFn3Ee2G-a1WGsgzzg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_WnDO9Fn3Ee2G-a1WGsgzzg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_a664MKoOEe2AieVDbwjS3g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_WnDO9Fn3Ee2G-a1WGsgzzg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XKqSMVn3Ee2G-a1WGsgzzg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -366,7 +366,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XKrgUln3Ee2G-a1WGsgzzg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_XK14YFn3Ee2G-a1WGsgzzg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_WnBZuFn3Ee2G-a1WGsgzzg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_a7Kv0KoOEe2AieVDbwjS3g" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_WnBZuFn3Ee2G-a1WGsgzzg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_i-tvEFn3Ee2G-a1WGsgzzg" elementId="org.eclipse.jdt.ui.ClassFileEditor" visible="false">
         <tags>Draggable</tags>
