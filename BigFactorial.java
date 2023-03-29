@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.math.BigInteger;
+
 class BigFactorial {
     public static void main(String args[]) {
         int n, c;
@@ -13,5 +14,6 @@ class BigFactorial {
             inc = inc.add(BigInteger.ONE);
         }
         System.out.println(n + "! = " + fact);
+        input.close();
     }
 }
